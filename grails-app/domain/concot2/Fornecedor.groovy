@@ -1,6 +1,6 @@
 package concot2
 
-class Categoria {
+class Fornecedor {
 
     String nome
 
